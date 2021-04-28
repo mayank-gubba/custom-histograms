@@ -1,0 +1,15 @@
+.container{
+    max-width: 100% !important;
+    margin-left: 10px;
+    padding-left: 15px;
+}
+
+#input_values{
+    padding-top: 20px;
+    top: 40px;
+}
+
+ul .nav{
+    display: inline;
+    position: absolute;
+}
